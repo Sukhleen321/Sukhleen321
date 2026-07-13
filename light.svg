@@ -219,6 +219,10 @@ Prompt Engineer
 <rect x="508" y="424" width="75" height="30" rx="15" ry="15" fill="rgba(15,23,42,0.03)" stroke="rgba(15,23,42,0.10)" stroke-width="1" filter="url(#softGlow)"/>
 <text x="546" y="443" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#0F172A">JavaScript</text>
 </g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.08s" fill="freeze"/>
+<rect x="699" y="424" width="84" height="30" rx="15" ry="15" fill="rgba(15,23,42,0.03)" stroke="rgba(15,23,42,0.10)" stroke-width="1" filter="url(#softGlow)"/>
+<text x="741" y="443" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#0F172A">Scikit-learn</text>
+</g>
 
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.92s" fill="freeze"/>
 <rect x="593" y="424" width="43" height="30" rx="15" ry="15" fill="rgba(15,23,42,0.03)" stroke="rgba(15,23,42,0.10)" stroke-width="1" filter="url(#softGlow)"/>
