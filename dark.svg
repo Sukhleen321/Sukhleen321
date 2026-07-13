@@ -158,7 +158,7 @@ Prompt Engineer
 </g>
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.8s" fill="freeze"/>
 <text x="508" y="258" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#94A3B8">Current Focus</text>
-<text x="658" y="258" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#F8FAFC">Machine Learning &amp; Computer Vision</text>
+<text x="658" y="258" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#F8FAFC">Full Stack • Machine Learning • DSA</text>
 </g>
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.05s" fill="freeze"/>
 <text x="508" y="286" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#94A3B8">Portfolio</text>
