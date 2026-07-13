@@ -169,13 +169,13 @@ Prompt Engineer
 <text x="658" y="314" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#F8FAFC">sukhleenisop@gmail.com</text>
 </g>
 <text x="508" y="368" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#94A3B8" letter-spacing="1.5">SKILLS</text>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.44s" fill="freeze"/>
+<rect x="708.352" y="386" width="61" height="30" rx="15" ry="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1" filter="url(#softGlow)"/>
+<text x="739" y="405" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#F8FAFC">Java</text>
+</g>
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.2s" fill="freeze"/>
 <rect x="508" y="386" width="57" height="30" rx="15" ry="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1" filter="url(#softGlow)"/>
 <text x="536" y="405" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#F8FAFC">Python</text>
-</g>
-<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.28s" fill="freeze"/>
-<rect x="574.784" y="386" width="61" height="30" rx="15" ry="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1" filter="url(#softGlow)"/>
-<text x="605" y="405" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#F8FAFC">PyTorch</text>
 </g>
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.36s" fill="freeze"/>
 <rect x="646.0319999999999" y="386" width="52" height="30" rx="15" ry="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1" filter="url(#softGlow)"/>
@@ -184,6 +184,10 @@ Prompt Engineer
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.44s" fill="freeze"/>
 <rect x="708.352" y="386" width="61" height="30" rx="15" ry="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1" filter="url(#softGlow)"/>
 <text x="739" y="405" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#F8FAFC">Node.js</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.44s" fill="freeze"/>
+<rect x="708.352" y="386" width="61" height="30" rx="15" ry="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1" filter="url(#softGlow)"/>
+<text x="739" y="405" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#F8FAFC">Express.js</text>
 </g>
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.52s" fill="freeze"/>
 <rect x="779.5999999999999" y="386" width="61" height="30" rx="15" ry="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1" filter="url(#softGlow)"/>
