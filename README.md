@@ -18,7 +18,7 @@
 
 ### About Me
 
-I'm a Computer Science (AI) undergraduate at Manipal Institute of Technology, focused on full-stack development and machine learning. I like building things end to end — from a scored recommendation engine on the backend to a clean, responsive interface on top of it — and I spend the rest of my time sharpening fundamentals through DSA.
+I'm a Computer Science (AI) undergraduate at Manipal Institute of Technology, with a strong focus on Machine Learning and full-stack development. I enjoy building complete systems end to end — from designing backend logic and APIs to training and applying ML models — and I spend the rest of my time sharpening my problem-solving fundamentals through DSA.
 
 - 🎓 **Education:** B.Tech CSE (AI), Manipal Institute of Technology
 - 🧭 **Current focus:**  Machine Learning · Full-Stack Development · Data Structures & Algorithms
