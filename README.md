@@ -57,23 +57,6 @@ I'm a Computer Science (AI) undergraduate at Manipal Institute of Technology, fo
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sukhleen321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukhleen321&layout=compact&theme=tokyonight&hide_border=true" width="27%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sukhleen321&theme=tokyonight&hide_border=true" width="60%" />
-
-</div>
-
----
-
 <div align="center">
 
 📌 Pinned projects are below — check them out for the code behind these skills in action.
-
-<img src="https://komarev.com/ghpvc/?username=Sukhleen321&style=flat-square&color=3B82F6" alt="Profile views"/>
-
-</div>
